@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, welcome to my Github Repositories
+
+<br> 🔭 I’m currently working on multiple data analytics/science projects and will expand my work rapidly in 2023!
+<br> :point_right: My interests include automation of processes, generative AI, deep learning models, forecasting, KPI dashboards and data engineering
+<br>📫 How to reach me: www.tonyhollaar.com
 
 <!--
 **tonyhollaar/tonyhollaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
