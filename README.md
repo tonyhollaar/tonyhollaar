@@ -3,7 +3,7 @@
 <br> 🔭 I’m currently working on multiple data analytics/science projects and will expand my work rapidly in 2023!
 <br> :point_right: My interests include automation of processes, generative AI, deep learning models, forecasting, visualiations, KPI dashboards and data engineering
 <br>📫 How to reach me: www.tonyhollaar.com
-<br> Python
+<br> Notebooks written in: Python, SQL
 <br> My favorite IDE's: Google Colab, Spyder
 
 <!--
