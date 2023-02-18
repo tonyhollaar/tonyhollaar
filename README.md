@@ -1,7 +1,7 @@
 ### Hi there 👋, welcome to my Github Repositories
 
 <br> 🔭 I’m currently working on multiple data analytics/science projects and will expand my work rapidly in 2023!
-<br> :point_right: My interests include automation of processes, generative AI, deep learning models, forecasting, visualiations, KPI dashboards and data engineering
+<br> :point_right: My interests include automation of processes, generative AI, deep learning models, forecasting, visualizations, KPI dashboards and data engineering
 <br>📫 How to reach me: www.tonyhollaar.com
 <br> :keyboard: Notebooks written in: <b> Python, SQL </b>
 <br> ⚡ Fun fact: my favorite IDE's are Google Colab (web), Spyder (local machine)
