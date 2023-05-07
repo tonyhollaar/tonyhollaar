@@ -42,9 +42,10 @@ Welcome to my Github Repositories!
 🔭 I’m currently working on multiple data analytics/science projects and will expand my work rapidly in 2023!
 <br> :point_right: My interests include automation of processes, generative AI, deep learning models, forecasting, visualizations, KPI dashboards and data engineering
 <br>📫 How to reach me: www.tonyhollaar.com
+<br> :octocat:  Github Profile: [www.tonyhollaar.github.io](https://tonyhollaar.github.io/) 
 <br> :keyboard: Notebooks written in: <b> Python, SQL </b>
 <br> ⚡ Fun fact: my favorite IDE's are Google Colab (web), Spyder (local machine)
-<br><span style="display: inline-block; font-weight: bold;">💻 My Tech Stack by Category</span><details style="display: inline-block;"><summary><h6>Tech Stack split by Category</h6></summary>
+<br><span style="display: inline-block; font-weight: bold;">💻 My Tech Stack, click below!</span><details style="display: inline-block;"><summary><h6>Tech Stack split by Category</h6></summary>
     <h6>Programming Languages:</h6>
             <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
             <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
@@ -73,6 +74,8 @@ Welcome to my Github Repositories!
          <h6>Competitive Programming Platforms:</h6></summary>
           <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   </details>
+  
+
 
 
 <!--
