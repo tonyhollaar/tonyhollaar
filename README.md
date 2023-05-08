@@ -90,7 +90,7 @@ Welcome to my Github Repositories!
 <br> :keyboard: Notebooks written in: <b> Python, SQL </b>
 <br> ⚡ Fun fact: my favorite IDE's are Google Colab (web), Spyder (local machine)
 <br><span style="display: inline-block; font-weight: bold;">💻 My Tech Stack by category, click below!</span><details style="display: inline-block;"><summary><h6>Tech Stack split by Category</h6></summary>
-    <h6>Programming Languages:style="margin-bottom: 20px;"</h6>
+    <h6>Programming Languages</h6>
             <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
             <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
             <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
