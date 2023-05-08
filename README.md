@@ -2,6 +2,27 @@
 Welcome to my Github Repositories!
 </h1>
 
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/tony-hollaar-819a9bb8/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/TonyHollaar">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://tonyhollaar.github.io/">
+    <img src="https://img.shields.io/badge/-My Github.io-black?style=flat-square&logo=github" alt="My GitHub.io Badge"/>
+  </a>
+  <a href="https://www.tonyhollaar.com">
+    <img src="https://img.shields.io/badge/My%20Website-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Personal Website Badge"/>
+  </a>
+</div>
+
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tonyhollaar&color=blueviolet">
+</p>
+
 <p align="center">
   <a href="#tech-stack">Tech Stack</a>
 </p>
@@ -45,7 +66,7 @@ Welcome to my Github Repositories!
 <br> :octocat:  Github Profile: [www.tonyhollaar.github.io](https://tonyhollaar.github.io/) 
 <br> :keyboard: Notebooks written in: <b> Python, SQL </b>
 <br> ⚡ Fun fact: my favorite IDE's are Google Colab (web), Spyder (local machine)
-<br><span style="display: inline-block; font-weight: bold;">💻 My Tech Stack, click below!</span><details style="display: inline-block;"><summary><h6>Tech Stack split by Category</h6></summary>
+<br><span style="display: inline-block; font-weight: bold;">💻 My Tech Stack by category, click below!</span><details style="display: inline-block;"><summary><h6>Tech Stack split by Category</h6></summary>
     <h6>Programming Languages:</h6>
             <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
             <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
@@ -74,7 +95,11 @@ Welcome to my Github Repositories!
          <h6>Competitive Programming Platforms:</h6></summary>
           <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   </details>
-  
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tonyhollaar&hide=prs,issues,contribs&show_icons=true&count_private=true&theme=light" width="400" height="200"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhollaar&hide_progress=true" width="428" height="200"></a>
+</p>
 
 
 
