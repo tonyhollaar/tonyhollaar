@@ -13,7 +13,7 @@ Welcome to my Github Repositories!
     <img src="https://img.shields.io/badge/-My Github.io-black?style=flat-square&logo=github" alt="My GitHub.io Badge"/>
   </a>
   <a href="https://www.tonyhollaar.com">
-    <img src="https://img.shields.io/badge/My%20Website-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Personal Website Badge"/>
+    <img src="https://img.shields.io/badge/My%20Website-darkgreen?style=flat-square&logo=google-chrome&logoColor=white" alt="Personal Website Badge"/>
   </a>
 </div>
 
