@@ -17,7 +17,6 @@ Welcome to my Github Repositories!
   </a>
 </div>
 
-
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tonyhollaar&color=blueviolet">
@@ -64,8 +63,21 @@ Welcome to my Github Repositories!
 <!-- Competitive Programming Platforms: -->
   <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 <br>
+ 
 <p align="center">
-  <a href="#tech-stack">About Me</a>
+  <a href="#soft-skills">Soft Skills</a>
+</p>
+<!-- Badges of Soft Skills-->
+<p align='center'>  
+  <img src="https://img.shields.io/badge/Communication-Skills-green.svg" alt="Communication Skills"/>
+  <img src="https://img.shields.io/badge/Collaboration-blue.svg" alt="Collaboration"/>
+  <img src="https://img.shields.io/badge/Leadership-yellow.svg" alt="Leadership"/>
+  <img src="https://img.shields.io/badge/Time-Management-red.svg" alt="Time Management"/>
+  <img src="https://img.shields.io/badge/Problem-Solving-orange.svg" alt="Problem Solving"/>
+</p>
+  
+<p align="center">
+  <a href="#about-me">About Me</a>
 </p>
   
 🔭 I’m currently working on multiple data analytics/science projects and will expand my work rapidly in 2023!
