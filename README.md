@@ -2,6 +2,10 @@
 Welcome to my Github Repositories!
 </h1>
 
+<div align="center" id="logo">
+<img src="https://socialify.git.ci/tonyhollaar/tonyhollaar/image?font=Source%20Code%20Pro&name=1&pattern=Signal&theme=Auto" alt="tonyhollaar" width="640" height="320" />
+</div>
+
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/tony-hollaar-819a9bb8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
