@@ -88,6 +88,7 @@ Welcome to my Github Repositories!
 <br>📫 How to reach me: www.tonyhollaar.com
 <br> :octocat:  Github Profile: [www.tonyhollaar.github.io](https://tonyhollaar.github.io/) 
 <br> :keyboard: Notebooks written in: <b> Python, SQL </b>
+<div style="line-height: 0.5;">
 <br> ⚡ Fun fact: my favorite IDE's are Google Colab (web), Spyder (local machine)
 <br><span style="display: inline-block; font-weight: bold;">💻 My Tech Stack by category, click below!</span><details style="display: inline-block;"><summary><h6>Tech Stack split by Category</h6></summary>
     <h6>Programming Languages</h6>
@@ -126,11 +127,11 @@ Welcome to my Github Repositories!
          <h6>Competitive Programming Platforms:</h6></summary>
           <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   </details>
-<div align="center" id="bottom widgets" style="margin-bottom: 20px;">
+</div>
+
+<div align="center" id="bottom widgets" style="margin-bottom: 5px;">
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tonyhollaar&hide=prs,issues,contribs&show_icons=true&count_private=true&theme=light" width="400" height="200"></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhollaar&hide_progress=true" width="400" height="200"></a>
     <img src="https://github.com/tonyhollaar/tonyhollaar/blob/main/images/image_processing.gif", alt="Image_Processing.gif">
 </div>
-
-
 <!-- **tonyhollaar/tonyhollaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
