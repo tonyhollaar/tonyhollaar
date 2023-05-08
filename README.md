@@ -40,7 +40,9 @@ Welcome to my Github Repositories!
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<!-- Google Cloud Platform: -->
+  <img src="https://img.shields.io/badge/SPSS-3D007F?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/h2o-0199D9?style=for-the-badge&logo=h2oai&logoColor=white" alt="H2O">
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics">
   <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform">
 <!-- Data Science Libraries: -->
@@ -85,7 +87,9 @@ Welcome to my Github Repositories!
             <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
             <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-            <!-- Google Cloud Platform: -->
+            <img src="https://img.shields.io/badge/SPSS-3D007F?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS">
+            <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark">
+            <img src="https://img.shields.io/badge/h2o-0199D9?style=for-the-badge&logo=h2oai&logoColor=white" alt="H2O">
             <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics">
             <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform">
           <h6>Data Science Libraries:</h6>
