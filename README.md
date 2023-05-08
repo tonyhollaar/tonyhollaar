@@ -32,14 +32,15 @@ Welcome to my Github Repositories!
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA">
 <!-- Tools & Frameworks: -->
   <img src="https://img.shields.io/badge/SQL%20Workbench-005A9C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Workbench">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics">
 <!-- Google Cloud Platform: -->
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics">
   <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform">
 <!-- Data Science Libraries: -->
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
@@ -75,6 +76,7 @@ Welcome to my Github Repositories!
             <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
             <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
             <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
             <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA">
           <h6>Tools & Frameworks:</h6>
             <img src="https://img.shields.io/badge/SQL%20Workbench-005A9C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Workbench">
