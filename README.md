@@ -130,7 +130,7 @@ Welcome to my Github Repositories!
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tonyhollaar&hide=prs,issues,contribs&show_icons=true&count_private=true&theme=light" width="400" height="200"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhollaar&hide_progress=true" width="428" height="200"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhollaar&hide_progress=true" width="400" height="200"></a>
 </p>
 
 
