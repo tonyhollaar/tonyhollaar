@@ -87,7 +87,7 @@ Welcome to my Github Repositories!
 🔭 I’m currently working on multiple data analytics/science projects and will expand my work rapidly in 2023!
 <br> :point_right: My interests include automation of processes, generative AI, deep learning models, forecasting, visualizations, KPI dashboards and data engineering
 <br>📫 How to reach me: www.tonyhollaar.com
-<br> :octocat:  Github Profile: www.tonyhollaar.github.io
+<br> :octocat:  Github Profile: [www.tonyhollaar.github.io](https://tonyhollaar.github.io/)
 <br> :keyboard: Notebooks written in: <b> Python, SQL </b>
 <br> ⚡ Fun fact: my favorite IDE's are Google Colab (web), Spyder (local machine)
 <br><span style="display: inline-block; font-weight: bold;">💻 My Tech Stack by category, click below!</span><details style="display: inline-block;"><summary><h6>Tech Stack split by Category</h6></summary>
